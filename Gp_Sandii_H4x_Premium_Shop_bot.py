@@ -24,11 +24,11 @@ from aiogram.types import (
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
 BOT_TOKEN = "8806500018:AAGQjKJkJzInbrM2kVbP1Y0OQurspWprWvc"
-BOT_USERNAME = "𝐑𝐚𝐳𝐳 𝐌𝐨𝐝𝐬 𝐒𝐭𝐨𝐫𝐞"
+BOT_USERNAME = "razzmodsstore_bot"
 ADMIN_ID =  8876324733
 ADMIN_CONTACT = "@Razxnn"
 
-FAMPAY_API_KEY = "Fam49fdcef185f6e814b3824530990e26ed"  # Replace with your actual API key
+FAMPAY_API_KEY = "Fam_49fdcef185f6e814b3824530990e26ed"  # Replace with your actual API key
 FAMPAY_QR_URL = "https://fampay.api/qr.php"
 FAMPAY_VERIFY_URL = "https://fampay.api/verify.php"
 
